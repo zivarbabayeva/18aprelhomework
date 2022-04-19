@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.exe
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.deps.json
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.runtimeconfig.json
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.dll
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\bin\Debug\netcoreapp3.1\Homework18aprel.pdb
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.dll
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.pdb
+C:\Users\LEGION\source\repos\Homework18aprel\Homework18aprel\obj\Debug\netcoreapp3.1\Homework18aprel.genruntimeconfig.cache
